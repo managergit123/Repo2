@@ -12,5 +12,10 @@ public class Hello {
 	public static void method() {
 		System.out.println("a method created by a team member");
 	}
+	
+	public static void amethod() {
+		System.out.println("another method created by a team member");
+	}
+
 
 }
